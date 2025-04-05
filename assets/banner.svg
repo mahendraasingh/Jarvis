@@ -1,0 +1,14 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="get-swe — Claude Code skills for landing a software engineering internship">
+  <rect x="1" y="1" width="1198" height="258" rx="28" fill="#F0EEE6" stroke="#E3DDD0" stroke-width="2"/>
+
+  <text x="64" y="58" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#D97757">CLAUDE CODE SKILL PACK</text>
+
+  <text x="60" y="152" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="800">
+    <tspan fill="#141413">get</tspan><tspan fill="#D97757">-swe</tspan>
+  </text>
+
+  <text x="64" y="196" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#6B6459">Claude Code skills for landing a software engineering internship</text>
+
+  <path d="M1030,50 L1043,117 L1110,130 L1043,143 L1030,210 L1017,143 L950,130 L1017,117 Z" fill="#D97757"/>
+  <path d="M1140,37 L1143,52 L1158,55 L1143,58 L1140,73 L1137,58 L1122,55 L1137,52 Z" fill="#E8A87C"/>
+</svg>
