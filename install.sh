@@ -9,3 +9,15 @@ TARGET_DIR="${HOME}/.claude/skills"
 SKILLS=(
   resume-review
   resume-adapter
+  internship-posting-searcher
+  project-idea-generator
+  leetcode-coach
+  behavioral-interview-prep
+  mock-technical-interview
+  github-portfolio-polish
+)
+
+TMP_DIR="$(mktemp -d)"
+trap 'rm -rf "$TMP_DIR"' EXIT
+
+echo "Downloading ${REPO}@${BRANCH}..."
