@@ -33,3 +33,15 @@ for skill in "${SKILLS[@]}"; do
     rm -rf "${TARGET_DIR:?}/${skill}"
     cp -R "${SRC_DIR}/${skill}" "${TARGET_DIR}/${skill}"
     INSTALLED+=("$skill")
+  else
+    echo "Warning: ${skill} not found in downloaded repo, skipping" >&2
+  fi
+done
+
+echo ""
+echo "Installed ${#INSTALLED[@]} skill(s) to ${TARGET_DIR}:"
+for skill in "${INSTALLED[@]}"; do
+  echo "  - ${skill}"
+done
+echo ""
+echo "Restart Claude Code (or start a new session) to pick them up."
