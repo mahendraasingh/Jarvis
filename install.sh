@@ -21,3 +21,15 @@ TMP_DIR="$(mktemp -d)"
 trap 'rm -rf "$TMP_DIR"' EXIT
 
 echo "Downloading ${REPO}@${BRANCH}..."
+curl -fsSL "https://github.com/${REPO}/archive/refs/heads/${BRANCH}.tar.gz" -o "${TMP_DIR}/repo.tar.gz"
+tar -xzf "${TMP_DIR}/repo.tar.gz" -C "${TMP_DIR}"
+
+SRC_DIR="${TMP_DIR}/get-swe-${BRANCH}"
+mkdir -p "${TARGET_DIR}"
+
+INSTALLED=()
+for skill in "${SKILLS[@]}"; do
+  if [ -d "${SRC_DIR}/${skill}" ]; then
+    rm -rf "${TARGET_DIR:?}/${skill}"
+    cp -R "${SRC_DIR}/${skill}" "${TARGET_DIR}/${skill}"
+    INSTALLED+=("$skill")
