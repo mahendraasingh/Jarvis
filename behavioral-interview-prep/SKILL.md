@@ -8,3 +8,13 @@ description: Coaches STAR-format answers for common software engineering interns
 Coaches a student through behavioral interview answers using the STAR
 format (Situation, Task, Action, Result) and runs live mock practice.
 
+## If the student wants to build/improve an answer
+
+Ask which question they're preparing for, or pick from the common set below
+if they don't have one in mind. Have them give their answer first (even
+rough), then check it against STAR structure:
+
+- **Situation** — specific enough to picture (not "at my internship" but
+  "during a group project building X with a team of 4").
+- **Task** — what was actually their responsibility or the specific
+  problem, not just context.
