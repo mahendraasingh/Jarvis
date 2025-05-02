@@ -18,3 +18,13 @@ rough), then check it against STAR structure:
   "during a group project building X with a team of 4").
 - **Task** — what was actually their responsibility or the specific
   problem, not just context.
+- **Action** — *their* individual actions, in enough technical/concrete
+  detail to sound credible — this is where most weak answers fail by
+  staying too vague or crediting "we" for everything.
+- **Result** — a concrete outcome, ideally with a number or clear before/after,
+  plus what they learned if relevant to the question.
+
+Flag and help fix common problems:
+- Answer is too long (should generally land in 60-90 seconds spoken, which
+  is roughly 150-220 words — tighten anything much longer).
+- All "we," no "I" — interviewers are trying to assess individual
