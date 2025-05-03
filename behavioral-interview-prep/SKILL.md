@@ -28,3 +28,13 @@ Flag and help fix common problems:
 - Answer is too long (should generally land in 60-90 seconds spoken, which
   is roughly 150-220 words — tighten anything much longer).
 - All "we," no "I" — interviewers are trying to assess individual
+  contribution.
+- Vague result ("it went well") instead of a concrete outcome.
+- Picks an example that doesn't actually fit the question being asked.
+
+## Common question set to draw from
+
+- Tell me about a time you faced a conflict on a team.
+- Tell me about a time you failed or made a mistake.
+- Tell me about a time you had to learn something quickly.
+- Describe a time you disagreed with a technical decision.
