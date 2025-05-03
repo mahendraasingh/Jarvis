@@ -38,3 +38,13 @@ Flag and help fix common problems:
 - Tell me about a time you failed or made a mistake.
 - Tell me about a time you had to learn something quickly.
 - Describe a time you disagreed with a technical decision.
+- Tell me about a project you're proud of.
+- Why this company / why this role?
+- Describe a time you had to manage competing priorities/deadlines.
+
+## Running a live mock round
+
+If the student wants practice rather than answer-polishing:
+1. Ask one question at a time, wait for their spoken/written answer.
+2. Give brief STAR-structure feedback after each answer (what worked,
+   what to sharpen) before moving to the next question.
