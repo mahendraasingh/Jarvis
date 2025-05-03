@@ -48,3 +48,14 @@ If the student wants practice rather than answer-polishing:
 1. Ask one question at a time, wait for their spoken/written answer.
 2. Give brief STAR-structure feedback after each answer (what worked,
    what to sharpen) before moving to the next question.
+3. After 3-5 questions, give a short overall pattern summary — e.g. "you
+   consistently under-specify the Result" — so they know what to work on
+   generally, not just per-question.
+
+## "Why this company" answers specifically
+
+These need a genuine, specific hook, not generic praise ("I love your
+mission"). Push the student toward something concrete: a product they've
+used, a specific team/technology, an engineering blog post, or how the
+role connects to something they've built — ask what they actually know
+about the company if their draft is generic.
