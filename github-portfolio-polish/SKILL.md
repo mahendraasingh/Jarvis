@@ -20,3 +20,14 @@ to describe everything manually.
 
 ### 1. Profile-level
 - Is there a profile README (the special `username/username` repo)? If
+  missing, this is a free, high-visibility win — suggest adding one with a
+  short bio, current focus/interests, and links (LinkedIn, portfolio site,
+  email) rather than a wall of badges/stats widgets, which recruiters mostly
+  skim past.
+- Are there 4-6 **pinned repos**? An unpinned profile forces a recruiter to
+  guess which repos matter; recommend pinning the strongest, most complete,
+  most relevant-to-target-role projects — not just the most recent ones.
+
+### 2. Per-repo README quality (for each pinned/key repo)
+For each one, check it has:
+- A one-line description of what it does and why, right at the top.
