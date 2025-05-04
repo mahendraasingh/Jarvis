@@ -9,3 +9,14 @@ Audits a student's GitHub profile for internship-application readiness —
 recruiters and interviewers commonly click through to GitHub, and a messy
 or empty-looking profile undercuts an otherwise strong resume.
 
+## Inputs
+
+Ask for the GitHub username or profile URL if not given. If tools for
+reading GitHub are available (e.g. `gh` CLI, web fetch), use them to inspect
+the actual profile, pinned repos, and READMEs rather than asking the student
+to describe everything manually.
+
+## What to check
+
+### 1. Profile-level
+- Is there a profile README (the special `username/username` repo)? If
