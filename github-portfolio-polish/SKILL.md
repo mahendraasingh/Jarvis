@@ -31,3 +31,14 @@ to describe everything manually.
 ### 2. Per-repo README quality (for each pinned/key repo)
 For each one, check it has:
 - A one-line description of what it does and why, right at the top.
+- Instructions to actually run it (setup steps, or better, a live demo
+  link/GIF/screenshot — projects that are hard to evaluate quickly get
+  skipped).
+- The tech stack stated explicitly (helps both human skimming and searches).
+Flag repos with no README, or a default auto-generated one (e.g. bare
+`# project-name` with nothing else) — these read as unfinished even if the
+code inside is solid.
+
+### 3. Repo hygiene
+- Are there stale, empty, or clearly-abandoned repos cluttering the profile
+  (e.g. forked tutorial repos with no changes, or empty "first commit"
