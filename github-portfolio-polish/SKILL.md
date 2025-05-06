@@ -42,3 +42,14 @@ code inside is solid.
 ### 3. Repo hygiene
 - Are there stale, empty, or clearly-abandoned repos cluttering the profile
   (e.g. forked tutorial repos with no changes, or empty "first commit"
+  repos)? Suggest unpinning or, if truly dead weight, deleting/archiving —
+  quality over quantity; a profile with 3 polished projects reads better
+  than 20 half-finished ones.
+- Commit history: wildly inconsistent or a single giant "final commit" can
+  read as if the student didn't actually build it incrementally. Not
+  something to fix retroactively, but worth flagging as a habit for future
+  projects (commit in meaningful increments).
+- Are topics/tags set on key repos? These help both GitHub search and quick
+  scanning of what a repo is about.
+
+### 4. Alignment with target role
