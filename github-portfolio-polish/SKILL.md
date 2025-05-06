@@ -53,3 +53,15 @@ code inside is solid.
   scanning of what a repo is about.
 
 ### 4. Alignment with target role
+If the student names a target role/stack, check whether the pinned repos
+actually demonstrate it. If there's a mismatch (e.g. targeting backend
+roles but every pinned repo is a frontend UI clone), say so directly — this
+is exactly the kind of gap `project-idea-generator` is meant to help close.
+
+## Output format
+
+1. Quick top-line verdict.
+2. Profile-level fixes.
+3. Per-repo fixes, repo by repo, most important first.
+4. If there's a role-alignment gap, call it out explicitly with a pointer to
+   `project-idea-generator`.
