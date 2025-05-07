@@ -28,3 +28,13 @@ job aggregators and company sites index differently:
 
 1. **Curated internship-list repos** — search for e.g.
    `"Summer 2027 internships" software engineering github` to find
+   community-maintained lists (the SimplifyJobs-style
+   "Summer20XX-Internships" repos are the best-known example and are
+   updated frequently by students). These are usually the highest-signal,
+   lowest-effort source.
+2. **Company career pages directly**, for any companies the user named —
+   search `<company> software engineering internship <cycle>` and fetch the
+   careers page to confirm the posting is actually open (not just cached).
+3. **Job boards** — general search like
+   `site:linkedin.com/jobs software engineering intern <cycle>` or similar
+   for boards that are searchable without login.
