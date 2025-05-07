@@ -18,3 +18,13 @@ stale info wastes a student's application cycle.
 Ask for whatever of these isn't already given:
 - Target companies or industries (or "open to anything").
 - Target internship cycle (e.g. Summer 2027) and class year/grad date.
+- Location preference (remote / specific cities / no preference).
+- Tech stack or role focus (backend, frontend, ML, mobile, etc.), if any.
+
+## Search strategy
+
+Run multiple searches from different angles rather than one broad query —
+job aggregators and company sites index differently:
+
+1. **Curated internship-list repos** — search for e.g.
+   `"Summer 2027 internships" software engineering github` to find
