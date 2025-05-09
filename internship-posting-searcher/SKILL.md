@@ -38,3 +38,13 @@ job aggregators and company sites index differently:
 3. **Job boards** — general search like
    `site:linkedin.com/jobs software engineering intern <cycle>` or similar
    for boards that are searchable without login.
+4. If the user gave a tech-stack focus, thread that into the queries (e.g.
+   "backend software engineering intern" vs. generic "software engineering
+   intern").
+
+Use `WebFetch` on promising links to confirm the posting is real, still
+open, and matches the criteria — don't just report a search-result snippet
+as fact, since snippets can be stale or misleading.
+
+## Output format
+
