@@ -48,3 +48,13 @@ as fact, since snippets can be stale or misleading.
 
 ## Output format
 
+A table: **Company | Role | Location | Posted/Deadline (if known) | Link**.
+Group or sort by relevance to the user's stated criteria. After the table:
+
+- Note any postings that appear to be closing soon or already closed (drop
+  closed ones from the table, don't pad the list with dead links).
+- Explicitly state: *"This is what's publicly searchable right now — also
+  check your school's Handshake/career portal, since many internships post
+  there first or exclusively."*
+- If search tools aren't available or results are thin, say so directly
+  rather than filling in gaps with guesses.
