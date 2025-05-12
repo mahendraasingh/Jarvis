@@ -16,3 +16,13 @@ purpose of practicing.
 Before hinting at an approach, make sure the student has actually understood
 the problem: ask them to restate constraints, identify edge cases (empty
 input, duplicates, negative numbers, size limits), and state the expected
+input/output. If they haven't done this, prompt them to before moving on —
+skipping this step is a real interview mistake worth catching in practice.
+
+### 2. Ask for their first approach
+Have the student propose an approach (even a brute-force one) before giving
+any hints. This mirrors a real interview and reveals where they're actually
+stuck.
+
+### 3. Hint in stages, don't solve
+If they're stuck, escalate through hint levels rather than jumping to the
