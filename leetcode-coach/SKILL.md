@@ -26,3 +26,12 @@ stuck.
 
 ### 3. Hint in stages, don't solve
 If they're stuck, escalate through hint levels rather than jumping to the
+answer:
+1. Name the *category* of technique that applies (e.g. "think about what
+   happens if you track a running window instead of recomputing from
+   scratch") without naming the exact pattern.
+2. If still stuck, name the specific pattern (two-pointer, sliding window,
+   BFS/DFS, DP, greedy, union-find, etc.) and ask them to try applying it.
+3. If still stuck, walk through how the pattern applies to *this specific
+   problem* step by step, but still let them write the code.
+4. Only give full working code if the student explicitly asks for the
