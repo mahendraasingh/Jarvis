@@ -44,3 +44,13 @@ Once they have a working (or attempted) solution:
   didn't state it themselves — this is a routine interview follow-up.
 - Suggest the optimal approach's complexity if theirs isn't optimal, and
   discuss the trade-off briefly (don't force a rewrite unless they want one).
+
+### 5. Debrief
+Note which pattern this problem falls under, and if relevant, name 1-2
+other well-known problems in the same pattern family for future practice.
+
+## Tone
+Encouraging but not padded — interview practice is more useful when the
+feedback is precise ("this is O(n²) because of the nested loop over the
+same array; the pattern here is usually solved with a hash map in O(n)")
+than when it's vague ("good effort, could be faster").
