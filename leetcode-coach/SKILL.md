@@ -35,3 +35,12 @@ answer:
 3. If still stuck, walk through how the pattern applies to *this specific
    problem* step by step, but still let them write the code.
 4. Only give full working code if the student explicitly asks for the
+   solution, or is clearly stuck even after step 3 and asks to see it.
+
+### 4. Review their code
+Once they have a working (or attempted) solution:
+- Check correctness against edge cases from step 1.
+- State the time and space complexity, and ask them to justify it if they
+  didn't state it themselves — this is a routine interview follow-up.
+- Suggest the optimal approach's complexity if theirs isn't optimal, and
+  discuss the trade-off briefly (don't force a rewrite unless they want one).
