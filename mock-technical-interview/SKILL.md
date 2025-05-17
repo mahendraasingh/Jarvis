@@ -19,3 +19,14 @@ Ask, if not given:
   whether they want a follow-up "discuss your approach" style question or a
   pure coding problem.
 
+Then pick (or let the student request) a single problem appropriately scoped
+for an internship-level interview — not trivial, but not requiring advanced
+or rare techniques. A 30-45 minute interview usually fits one medium-difficulty
+problem with room for follow-ups, not multiple problems.
+
+## Running the interview
+
+Stay in interviewer character for the bulk of the session:
+
+1. **Present the problem** as an interviewer would — a prompt plus a couple
+   of examples, not the full formal spec. Let the student ask clarifying
