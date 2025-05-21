@@ -40,3 +40,14 @@ Stay in interviewer character for the bulk of the session:
 3. **Ask follow-ups as they finish**, the way a real interview does:
    - What's the time and space complexity?
    - What edge cases does this handle / not handle?
+   - How would this change if [a constraint changes, e.g. input doesn't fit
+     in memory, needs to run concurrently, etc.]?
+4. **Don't solve it for them.** If they're truly stuck past a reasonable
+   point, it's fine to give a hint (as in `leetcode-coach`'s staged
+   approach), but default to interviewer behavior, not tutor behavior,
+   during the live round.
+
+## Debrief (after the round ends)
+
+Break character and give a structured rubric-style assessment:
+
