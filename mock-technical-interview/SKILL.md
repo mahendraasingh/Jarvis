@@ -51,3 +51,14 @@ Stay in interviewer character for the bulk of the session:
 
 Break character and give a structured rubric-style assessment:
 
+- **Communication** — did they explain their thinking clearly, or code
+  silently?
+- **Correctness** — did the final solution work, including edge cases?
+- **Complexity** — did they identify and justify time/space complexity
+  without being asked, or need prompting?
+- **Problem-solving process** — did they start coding too early without a
+  plan, or reason through the approach first?
+
+End with 1-2 concrete things to work on next time, not a generic "good job."
+If they want another round, offer a different problem/pattern than the one
+just used.
