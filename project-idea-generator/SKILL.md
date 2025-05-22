@@ -17,3 +17,13 @@ finish.
   follow-up question rather than guessing.
 - Available time (a weekend, 2 weeks, a full semester) — this changes scope
   dramatically and should be asked if not given.
+- Anything they want to avoid repeating (e.g. "I already have a web app on
+  my resume, want something different").
+
+## Generating ideas
+
+Produce 3-5 ideas, not a huge list — a focused shortlist is more useful than
+an overwhelming one. For each idea:
+
+1. **What it is**, in 1-2 sentences.
+2. **Why it demonstrates the target skill(s) well** to someone screening
