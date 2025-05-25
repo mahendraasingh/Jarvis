@@ -37,3 +37,13 @@ an overwhelming one. For each idea:
 
 Deliberately avoid the most overdone student-portfolio ideas unless the user
 specifically asks for something simple to start with: plain todo apps,
+generic weather-app API wrappers, basic calculators, unmodified tutorial
+clones. A recruiter skimming 200 resumes has seen these many times; a project
+with a specific angle, real constraint, or personal use case stands out more
+and is usually no harder to build.
+
+Favor ideas with:
+- A genuine personal reason to build it (something the student would
+  actually use), which also makes it easier to talk about in interviews.
+- A clear technical challenge tied to the target skill, not just UI work
+  wrapped around a tutorial's backend.
