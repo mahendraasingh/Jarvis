@@ -27,3 +27,13 @@ an overwhelming one. For each idea:
 
 1. **What it is**, in 1-2 sentences.
 2. **Why it demonstrates the target skill(s) well** to someone screening
+   resumes — be specific about which parts of the tech stack it exercises,
+   not just "it uses React."
+3. **Realistic scope for the stated timeframe** — explicitly cut features
+   that would blow the budget, and say so ("skip auth/multi-user for a
+   weekend build, that alone eats the whole timebox").
+4. **What makes it non-generic** — briefly note the twist or specific
+   constraint that keeps it out of "yet another CRUD app" territory.
+
+Deliberately avoid the most overdone student-portfolio ideas unless the user
+specifically asks for something simple to start with: plain todo apps,
