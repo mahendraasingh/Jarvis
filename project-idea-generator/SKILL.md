@@ -47,3 +47,13 @@ Favor ideas with:
   actually use), which also makes it easier to talk about in interviews.
 - A clear technical challenge tied to the target skill, not just UI work
   wrapped around a tutorial's backend.
+- A natural "impressive metric" to put on a resume later (throughput,
+  latency, data volume, concurrent users handled, test coverage).
+
+## If the student picks one
+
+Once they choose an idea, offer to sketch a rough build plan: milestones in
+build order, the first concrete piece to build first (usually the smallest
+end-to-end vertical slice, not the hardest component), and what the resume
+bullet for it might eventually look like once built — this gives the
+student a target to build toward, not just a vague concept.
