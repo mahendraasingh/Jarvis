@@ -34,3 +34,15 @@ Pull out, explicitly:
   which projects to lead with.
 
 ### 2. Score existing resume content against those requirements
+For each project/experience entry on the resume, note how directly it
+relates to the posting's required/preferred skills. Do **not** invent a
+connection that isn't there — if nothing on the resume touches a required
+skill, that's a real gap to surface, not something to paper over.
+
+### 3. Reorder
+- Within Projects/Experience, move the entries most relevant to this
+  specific posting higher, even if that's not chronological order (chronological
+  order isn't a hard rule for student resumes — relevance matters more once
+  applying to a specific role).
+- In the Skills section, list the posting's required skills first if the
+  student genuinely has them.
