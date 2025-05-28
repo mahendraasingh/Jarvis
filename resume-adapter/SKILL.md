@@ -22,3 +22,15 @@ to paste the posting, or use the `internship-posting-searcher` skill's
 approach to look it up if web search is available.
 
 ## Process
+
+### 1. Extract requirements from the posting
+Pull out, explicitly:
+- Required technical skills/languages/frameworks.
+- Preferred/nice-to-have skills.
+- Any domain emphasis (e.g. "distributed systems," "mobile," "data
+  pipelines").
+- Soft-skill or team-context signals (e.g. "fast-paced," "cross-functional
+  collaboration") — these matter less for bullet rewriting but can inform
+  which projects to lead with.
+
+### 2. Score existing resume content against those requirements
