@@ -10,3 +10,15 @@ resume to that role. This is different from `resume-review`, which audits a
 resume with no specific job in mind — use that one first if the resume has
 general quality issues; use this one once there's a real posting to target.
 
+## Inputs required
+
+1. The resume (paste, file, or path).
+2. The job posting/description — paste the full text if possible, not just
+   a link summary, so the actual required/preferred skills and phrasing are
+   visible.
+
+If the user only gives a company + role name with no posting text, ask them
+to paste the posting, or use the `internship-posting-searcher` skill's
+approach to look it up if web search is available.
+
+## Process
