@@ -46,3 +46,15 @@ skill, that's a real gap to surface, not something to paper over.
   applying to a specific role).
 - In the Skills section, list the posting's required skills first if the
   student genuinely has them.
+
+### 4. Rewrite bullets to mirror the posting's language
+Where the resume already demonstrates a relevant skill but uses different
+terminology than the posting (e.g. resume says "built REST endpoints",
+posting says "developed APIs"), rewrite to use the posting's terminology —
+this is legitimate keyword alignment for both ATS and human skimming, not
+dishonesty, as long as the underlying claim stays true. Never add a
+technology, tool, or achievement the student didn't actually do.
+
+### 5. Surface gaps honestly
+List the required/preferred skills from the posting that the resume doesn't
+support at all. Don't suggest fabricating them — instead:
