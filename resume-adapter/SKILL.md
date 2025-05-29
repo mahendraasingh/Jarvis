@@ -58,3 +58,16 @@ technology, tool, or achievement the student didn't actually do.
 ### 5. Surface gaps honestly
 List the required/preferred skills from the posting that the resume doesn't
 support at all. Don't suggest fabricating them — instead:
+- Suggest if any existing project could legitimately be reframed to
+  highlight a related-but-unlisted skill.
+- If genuinely absent, say so plainly, and optionally point toward
+  `project-idea-generator` to close the gap for future applications.
+
+## Output format
+
+1. Extracted requirement list from the posting (required vs. preferred).
+2. Coverage map: which resume entries match which requirements, and which
+   requirements have no match.
+3. The reordered, reworded resume content (Before → After for changed
+   bullets, plus the new section ordering).
+4. A short honest list of remaining gaps.
