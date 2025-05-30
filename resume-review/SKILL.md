@@ -62,3 +62,16 @@ unconfirmed, write the bullet with a bracketed placeholder like
 - Flag skills listed that are too vague to be useful ("Microsoft Office",
   "problem solving") — these don't belong on a SWE resume.
 - Flag if a skill is listed but never appears anywhere in a project/experience
+  bullet — recruiters and ATS keyword-matchers both notice this gap.
+
+## Output format
+
+1. A short top-line verdict (1-2 sentences: is this resume in good shape,
+   needs moderate work, or needs a rewrite).
+2. Issues grouped by the four categories above, each with the specific fix.
+3. Rewritten bullets shown as `Before → After`.
+4. If asked, produce the full revised resume text at the end.
+
+Keep the tone direct and specific — a student improves faster from "this
+bullet doesn't say what you actually built, here's a stronger version" than
+from generic encouragement.
