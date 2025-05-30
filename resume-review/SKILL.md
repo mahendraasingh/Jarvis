@@ -49,3 +49,16 @@ For every bullet under Experience and Projects, check it has all three of:
 - **Impact or metric** — a number wherever honestly possible (latency
   reduced X%, N users, test coverage from X% to Y%, time saved). If no
   metric is available, at least state the concrete outcome.
+
+For every bullet that fails this, **rewrite it** rather than just flagging
+it — show the before/after side by side. Don't invent numbers or
+achievements the student hasn't told you about; if a metric is plausible but
+unconfirmed, write the bullet with a bracketed placeholder like
+`[reduced load time by X%]` and tell the student to fill in the real number.
+
+### 4. Skills section
+- Should be organized by category (Languages, Frameworks/Libraries, Tools,
+  if applicable) rather than one long unsorted list.
+- Flag skills listed that are too vague to be useful ("Microsoft Office",
+  "problem solving") — these don't belong on a SWE resume.
+- Flag if a skill is listed but never appears anywhere in a project/experience
