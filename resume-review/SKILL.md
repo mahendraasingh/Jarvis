@@ -23,3 +23,16 @@ resume is judged differently than a graduating senior's).
 Expected sections for a student resume, roughly in this order: **Education**,
 **Experience** (if any), **Projects**, **Skills**. Flag if:
 - Resume is longer than one page (should almost always be one page for a
+  student).
+- Sections are out of a sensible order (e.g. burying Projects at the bottom
+  when the student has no internship experience — Projects should come
+  before Experience in that case).
+- Education section is missing GPA when GPA is reasonably strong (3.3+), or
+  including a weak GPA that would be better omitted (below ~3.0 — mention
+  this trade-off, don't decide for them).
+- No dates, or inconsistent date formatting.
+
+### 2. ATS compatibility
+Flag anything that breaks automated resume parsers:
+- Tables, multi-column layouts, text boxes, or images used for content
+  (icons for contact info are fine).
