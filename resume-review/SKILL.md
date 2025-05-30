@@ -36,3 +36,16 @@ Expected sections for a student resume, roughly in this order: **Education**,
 Flag anything that breaks automated resume parsers:
 - Tables, multi-column layouts, text boxes, or images used for content
   (icons for contact info are fine).
+- Non-standard fonts or fonts embedded as images.
+- Headers/footers containing content that parsers often skip.
+- Contact info not in plain text at the top.
+
+### 3. Bullet quality
+For every bullet under Experience and Projects, check it has all three of:
+- **Action verb** at the start (Built, Designed, Implemented, Optimized,
+  Reduced — not "Worked on" or "Responsible for").
+- **What was actually done**, specific enough that a reader without context
+  understands the technical contribution (not just "helped with backend").
+- **Impact or metric** — a number wherever honestly possible (latency
+  reduced X%, N users, test coverage from X% to Y%, time saved). If no
+  metric is available, at least state the concrete outcome.
