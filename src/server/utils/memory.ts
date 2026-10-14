@@ -34,3 +34,5 @@ export function getMemoryContextString() {
     .map((m: any) => `[${m.role}] (${m.timestamp}): ${m.text}`)
     .join("\n");
 }
+
+// Memory persistence helpers
