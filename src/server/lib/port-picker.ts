@@ -19,3 +19,5 @@ export const getAvailablePort = async (
   const isPrimaryFree = await isPortAvailable(primary);
   return isPrimaryFree ? primary : fallback;
 };
+
+// Default fallback port is 8769 if 6753 is occupied
