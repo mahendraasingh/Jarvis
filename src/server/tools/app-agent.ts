@@ -4,3 +4,4 @@ export const appToolDeclarations = [];
 // Platform mapping
 // App action handler
 // Force termination
+// Socket status emission
