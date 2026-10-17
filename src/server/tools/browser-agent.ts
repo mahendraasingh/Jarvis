@@ -2,3 +2,4 @@
 // open_website declaration
 // search_youtube declaration
 // search_google declaration
+// Browser action execution
