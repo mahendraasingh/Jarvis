@@ -3,3 +3,4 @@
 // search_youtube declaration
 // search_google declaration
 // Browser action execution
+// YouTube query encoder
