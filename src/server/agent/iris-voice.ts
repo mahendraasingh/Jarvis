@@ -3,3 +3,4 @@
 // Dynamic time injection
 // History context
 // Voice configuration
+// Tool declarations
