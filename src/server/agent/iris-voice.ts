@@ -4,3 +4,4 @@
 // History context
 // Voice configuration
 // Tool declarations
+// VAD activity detection
