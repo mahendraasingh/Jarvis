@@ -13,3 +13,4 @@
 // Input Transcription
 // Output Transcription
 // Memory Persistence
+// Microphone Capture
