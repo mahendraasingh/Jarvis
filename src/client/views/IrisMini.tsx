@@ -5,3 +5,4 @@
 // Auto scroll
 // Power Button
 // Toast Feedback
+// Header and Footer metadata
