@@ -4,3 +4,4 @@
 // Message bubble styling
 // Auto scroll
 // Power Button
+// Toast Feedback
