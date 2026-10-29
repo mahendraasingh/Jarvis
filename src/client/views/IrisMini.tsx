@@ -3,3 +3,4 @@
 // Transcript message receiver
 // Message bubble styling
 // Auto scroll
+// Power Button
