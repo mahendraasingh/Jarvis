@@ -2,3 +2,4 @@
 // Chalk and ANSI color helpers
 // Typewriter animation
 // Terminal Spinner
+// Progress Bar
