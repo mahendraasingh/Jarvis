@@ -3,3 +3,4 @@
 // Typewriter animation
 // Terminal Spinner
 // Progress Bar
+// Inquirer Wizard
