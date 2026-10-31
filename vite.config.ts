@@ -8,5 +8,3 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   logLevel: isProduction ? "silent" : "info",
 });
-
-// Configure production log level suppression
